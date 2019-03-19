@@ -1,0 +1,21 @@
+body {
+    background-image: url("http://www.sompaisoscatalans.cat/simage/177/1772683/train-line-hd-wallpaper.jpg") !important;
+  }
+  
+  #heading {
+    font-family: Times;
+    font-weight: bold;
+  }
+  
+  #subHeading {
+    font-family: Times;
+    font-style: italic;
+  }
+  
+  .panel-title {
+    font-weight: bold;
+  }
+  
+  th {
+    font-weight: bold;
+  }
